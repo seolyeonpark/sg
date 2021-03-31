@@ -1,6 +1,6 @@
-# soongil
+# soonggil
 
-A new Flutter project.
+추후 수정될 예정입니다.
 
 ## Getting Started
 
