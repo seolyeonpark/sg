@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773549267139",
+    "project_id": "soongil-2b860",
+    "storage_bucket": "soongil-2b860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773549267139:android:5062451b491edaf75c2a76",
+        "android_client_info": {
+          "package_name": "com.example.soongil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773549267139-bh0oovlgc9acp2enipnnr2mbp0dji9q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7PsapJmSW7w-fOmwdpOGYm_2ddCDOQC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773549267139-bh0oovlgc9acp2enipnnr2mbp0dji9q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
