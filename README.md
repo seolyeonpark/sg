@@ -1,4 +1,4 @@
-# soonggil
+# soongil
 
 추후 수정될 예정입니다.
 
